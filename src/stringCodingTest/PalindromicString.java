@@ -1,3 +1,5 @@
+package stringCodingTest;
+
 import java.util.Scanner;
 
 class PalindromicString {
